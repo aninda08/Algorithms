@@ -10,6 +10,6 @@ public class DemoHandler
     {
         System.out.println("Welcome to algorithms on java @AnindaSundarChakraborty");
         
-        BinarySearchDemoHandler.exponentialSearchRecDemo();
+        RadixSortDemoHandler.radixSortDemo();
     }
 }
