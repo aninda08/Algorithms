@@ -1,12 +1,12 @@
-package com.aninda;
+package com.aninda.demo.sort;
 
-import com.aninda.sort.HeapSort;
+import com.aninda.sort.QuickSort;
 
-public class HeapSortDemoHandler {
-    public static void heapSortDemo() {
+public class QuickSortDemoHandle {
+    public static void quickSortDemo() {
         int[] arr = { 12, 24, 13, 4, 35, 60, 7, 27, 58, 99 };
 
-        HeapSort ss = new HeapSort(arr);
+        QuickSort ss = new QuickSort(arr);
 
         System.out.println("Before applying heap sort");
         ss.printArray();

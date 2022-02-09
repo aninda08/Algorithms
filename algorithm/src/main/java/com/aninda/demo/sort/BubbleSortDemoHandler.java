@@ -1,6 +1,4 @@
-package com.aninda;
-
-import java.util.Arrays;
+package com.aninda.demo.sort;
 
 import com.aninda.sort.BubbleSort;
 

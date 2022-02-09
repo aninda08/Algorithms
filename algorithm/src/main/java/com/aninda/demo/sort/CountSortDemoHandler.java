@@ -1,4 +1,4 @@
-package com.aninda;
+package com.aninda.demo.sort;
 
 import com.aninda.sort.CountSort;
 

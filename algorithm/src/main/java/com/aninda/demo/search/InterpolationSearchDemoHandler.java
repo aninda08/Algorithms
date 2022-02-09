@@ -1,4 +1,4 @@
-package com.aninda;
+package com.aninda.demo.search;
 
 import java.util.Arrays;
 

@@ -1,5 +1,7 @@
 package com.aninda;
 
+import com.aninda.demo.greedy.HuffmanCodeDemoHandler;
+
 /**
  * Hello world!
  *
@@ -10,6 +12,6 @@ public class DemoHandler
     {
         System.out.println("Welcome to algorithms on java @AnindaSundarChakraborty");
         
-        RadixSortDemoHandler.radixSortDemo();
+        HuffmanCodeDemoHandler.huffmanCodeDemo();
     }
 }
