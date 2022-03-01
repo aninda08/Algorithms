@@ -1,5 +1,8 @@
 package com.aninda;
 
+import com.aninda.demo.dividenconquer.CountInversionDemoHandler;
+import com.aninda.demo.dividenconquer.MedianDemoHandler;
+import com.aninda.demo.dividenconquer.PowerDemoHandler;
 import com.aninda.demo.greedy.HuffmanCodeDemoHandler;
 import com.aninda.demo.greedy.JobSequencingDemoHandler;
 
@@ -13,6 +16,6 @@ public class DemoHandler
     {
         System.out.println("Welcome to algorithms on java @AnindaSundarChakraborty");
         
-        JobSequencingDemoHandler.jobSequencingDemo();
+        CountInversionDemoHandler.countInversionDemo();
     }
 }

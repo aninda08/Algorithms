@@ -1,7 +1,6 @@
 package com.aninda.demo.greedy;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 import com.aninda.greedy.JobSequencing;
 
