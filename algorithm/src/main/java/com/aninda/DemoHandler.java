@@ -1,5 +1,9 @@
 package com.aninda;
 
+import com.aninda.demo.backtracking.KnightTourDemoHandler;
+import com.aninda.demo.backtracking.NQueenProblemDemoHandler;
+import com.aninda.demo.backtracking.PermutationDemoHandler;
+import com.aninda.demo.backtracking.RatMazeDemoHandler;
 import com.aninda.demo.dividenconquer.CountInversionDemoHandler;
 import com.aninda.demo.dividenconquer.MedianDemoHandler;
 import com.aninda.demo.dividenconquer.PowerDemoHandler;
@@ -16,6 +20,6 @@ public class DemoHandler
     {
         System.out.println("Welcome to algorithms on java @AnindaSundarChakraborty");
         
-        CountInversionDemoHandler.countInversionDemo();
+        NQueenProblemDemoHandler.NQueenProblemDemo();
     }
 }
