@@ -1,4 +1,5 @@
 package com.aninda;
+import com.aninda.demo.graph.GraphDemoHandler;
 import com.aninda.demo.patternsearch.RabinKarpPatternDemoHandler;
 
 public class DemoHandler 
@@ -7,6 +8,6 @@ public class DemoHandler
     {
         System.out.println("Welcome to algorithms on java @AnindaSundarChakraborty");
         
-        RabinKarpPatternDemoHandler.searchDemo(); 
+        GraphDemoHandler.graphTraversalBFSDemo(); 
     }
 }
